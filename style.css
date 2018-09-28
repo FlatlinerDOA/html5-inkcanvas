@@ -1,6 +1,7 @@
 body {
   margin: 0;
   position: relative;
+  touch-action: none;
 }
 
 .canvas-wrapper {
